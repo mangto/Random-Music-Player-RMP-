@@ -1,0 +1,8 @@
+{
+    "button":{
+        "play":"Music.play()",
+        "stop":"Music.stop()",
+        "random":"Music.play(rand=True)",
+        "show":"Music.show()"
+    }
+}
